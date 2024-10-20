@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravv-x
+- 👋 Hi, I’m Gaurav Patel.
 - 👀 I’m interested AI-ML and TECH Things 
 - 🌱 I’m currently learning Cloud and Genrative AI
 - 💞️ I’m looking to collaborate With people who have desire to make a change
